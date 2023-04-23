@@ -1,8 +1,8 @@
 # BlockBreaker
 
-## My Specialized Version of BlockBreaker Game from an Udemy Course (https://www.udemy.com/course/unitycourse/)
+### My Specialized Version of BlockBreaker Game from an Udemy Course (https://www.udemy.com/course/unitycourse/)
 
-## Playable Game Link: https://sharemygame.com/@ksarica/blockbreakergame
+### Playable Game Link: https://sharemygame.com/@ksarica/blockbreakergame
 
 ### Images from the Game
 

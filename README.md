@@ -2,6 +2,8 @@
 
 ## My Specialized Version of BlockBreaker Game from an Udemy Course
 
+## Playable Game Link: https://sharemygame.com/@ksarica/blockbreakergame
+
 ### Images from the Game
 
 ![BlockBreaker_1](https://user-images.githubusercontent.com/46609011/233866814-d5b2b4d0-5eb9-40ae-b2a7-0115323a32e7.png)
